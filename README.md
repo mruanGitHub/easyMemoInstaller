@@ -1,0 +1,2 @@
+# easyMemoInstaller
+Installer for easyMemo
